@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MD",
+				"mduikit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/liyongjie/Desktop/RN/AwesomProject/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+		"/Users/liyongjie/Desktop/RN/AwesomProject/index.ios.js",
+		"/Users/liyongjie/Desktop/test.html",
+		"/Users/liyongjie/Desktop/RN/DYFBuyApp/index.ios.js",
+		"/Users/liyongjie/Desktop/openfire_mysql.sql",
+		"/Users/liyongjie/Desktop/RN/DYFBuyApp/Component/Mine/MineHeaderView.js",
+		"/Users/liyongjie/Desktop/RN/DYFBuyApp/package.json",
+		"/Users/liyongjie/Desktop/RN/test/index.js",
+		"/Users/liyongjie/Desktop/RN/AwesomProject/node_modules/react-native/local-cli/templates/HelloWorld/app.json",
+		"/Users/liyongjie/Desktop/RN/AwesomProject/package.json",
+		"/private/etc/profile",
+		"/Users/liyongjie/Downloads/download-landing(1).jsp",
+		"/usr/local/openfire/resources/database/upgrade/11/openfire_mysql.sql",
+		"/usr/local/openfire/bin/openfire.sh",
+		"/Users/liyongjie/Desktop/openfire",
+		"/Users/liyongjie/Downloads/download-landing.jsp",
+		"/Users/liyongjie/Desktop/iglistkit",
+		"/Users/liyongjie/Desktop/bugly/main.js",
+		"/Users/liyongjie/Desktop/main.js",
+		"/Users/liyongjie/Desktop/custom.clang-format",
+		"/Users/liyongjie/Desktop/1. AOP",
+		"/Users/liyongjie/Desktop/密码",
+		"/Users/liyongjie/Desktop/response.json",
+		"/Users/liyongjie/Desktop/muheda_ios/muheda_ios/Muheda/Assets.xcassets/引导页/x_three.imageset/Contents.json",
+		"/Users/liyongjie/Desktop/jquery.js",
+		"/Users/liyongjie/Desktop/color.js",
+		"/Users/liyongjie/Downloads/SuperPlayer-master 2/SuperPlayer.podspec",
+		"/Users/liyongjie/Documents/收藏",
+		"/Users/liyongjie/Desktop/待做，aop，类方法",
+		"/Users/liyongjie/Desktop/patch/main.js",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDUtils/MDUtils/0.4.8/MDUtils.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDUtils/MDUtils/0.4.5/MDUtils.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDUtils/MDUtils/0.2.7/MDUtils.podspec",
+		"/Users/liyongjie/Desktop/muheda_ios/muheda_ios/Modules/MHDStoreModule/Models/APAuthInfo.m",
+		"/Users/liyongjie/Desktop/muheda_ios/muheda_ios/Modules/MHDStoreModule/Models/APAuthInfo.h",
+		"/Users/liyongjie/Desktop/muheda_ios/muheda_ios/Modules/MHDStoreModule/Mediator/MHDStoreMediator.h",
+		"/Users/liyongjie/Desktop/patch/JSPatch语法特征",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3EDDD385-1F69-4102-9D82-67E0AF6A8F35/data/Containers/Data/Application/D8BF18CA-FFB1-47A7-98CB-495AAF5B2FE2/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3EDDD385-1F69-4102-9D82-67E0AF6A8F35/data/Containers/Data/Application/A5C5A6FA-A926-447A-91FF-173C1C906D98/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDHome/MDHome.podspec",
+		"/Users/liyongjie/Desktop/ReactiveCocoaDemo-master/Podfile",
+		"/Users/liyongjie/Desktop/person.json",
+		"/Users/liyongjie/Desktop/app.9c97dd8610461dd4787152b9644d8192.css",
+		"/Users/liyongjie/Desktop/photo-picker/Gallery/Example/GalleryDemo/Pods/Local Podspecs/Gallery.podspec.json",
+		"/Users/liyongjie/Desktop/untitled.html",
+		"/Users/liyongjie/Desktop/Blog/_config.yml",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/9D047A60-A93F-4BE2-8A0C-AA385E8AE64A/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/8B3E7F47-9151-4F8F-ACC9-0F03FB08043B/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/695A640F-8353-43F0-BE14-9BD08FEBCB2B/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/772162EF-C304-440C-8DD9-ECA738195780/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/7C14E82B-3571-4772-AB31-E357F34E22FD/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/67EAB4E5-31D3-4A38-8631-BE1608846873/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/38B190D6-AF3B-4C83-B4D5-DF014A298D68/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/CB9B2C8C-B5E8-49F4-95FC-6768A1E026B7/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/F315855C-9DB2-47F7-892E-91C73786FBD5/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/B2635BF9-0B35-4266-810A-B14D970CBD62/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/D31D974E-57D5-4122-B69E-DAF3014A3930/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/DA34EA8C-078B-419D-968B-638AE5EDEEB4/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Developer/CoreSimulator/Devices/3FDBA3A4-FC1D-4E8D-8976-7CA58C0F730C/data/Containers/Data/Application/F9DB7A63-B49F-48A3-9780-2E158F320386/Library/com.tencent.bugly.hotfix/v1/main.js",
+		"/Users/liyongjie/Library/Caches/CocoaPods/search_index.json",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDUtils/MDUtils.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDUtils/Example/Pods/Local Podspecs/MDUtils.podspec.json",
+		"/Users/liyongjie/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/7add22f0df7962695c599642dc0278be/Message/MessageTemp/c34aa054c0a5a3d2347db71131ce1912/File/data.json",
+		"/Users/liyongjie/Downloads/JSPatch-master/Demo/DribbbleDemo/dribbbleDemo/dribbble/DBTimelineViews.js",
+		"/Users/liyongjie/Desktop/MDUIKit/MDUIKit.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDAlipaySDK/MDAlipaySDK.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDUIKit/MDUIKit.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDNetwork/MDNetwork.podspec",
+		"/Users/liyongjie/Desktop/MDHome/MDHome.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-MDBase/MDBase.podspec",
+		"/Users/liyongjie/Desktop/依赖关系命令",
+		"/Users/liyongjie/Desktop/MDBase/MDBase.podspec",
+		"/Users/liyongjie/Desktop/MDNetwork/MDNetwork.podspec",
+		"/Users/liyongjie/Desktop/FBMemoryProfiler-master/FBMemoryProfiler.podspec",
+		"/Users/liyongjie/Desktop/debei/MHD_Project/MHD_Project/OldProject/OldIconMedia.xcassets/CarResource/Contents 2.json",
+		"/Users/liyongjie/Desktop/mduikit.podspec",
+		"/Users/liyongjie/Desktop/MDKit/MDKit/MDKit.podspec",
+		"/Users/liyongjie/Desktop/tmpnetwork/mobile-sdk-ios-MDNetwork/MDNetwork.podspec",
+		"/Users/liyongjie/Desktop/mobile-MHDTrunk-ios/MHD_Project/Podfile",
+		"/Users/liyongjie/.cocoapods/repos/muheda-muheda-mobile-sdk-ios-mdnetwork/MDNetwork.podspec",
+		"/Users/liyongjie/Desktop/tmpnetwork/MDNetwork/MDNetwork.podspec",
+		"/Users/liyongjie/.cocoapods/repos/muheda-muheda-mobile-sdk-ios-mdutils/MDUtils.podspec",
+		"/Users/liyongjie/Desktop/mobile-sdk-ios-uikit/mduikit.podspec",
+		"/Users/liyongjie/Desktop/mduikit 下午7.34.24/mduikit.podspec",
+		"/Users/liyongjie/Desktop/tmpnetwork/network/network.podspec",
+		"/Users/liyongjie/.cocoapods/repos/muheda-muheda-mobile-sdk-ios-network/obile-sdk-ios-network.podspec",
+		"/Users/liyongjie/Desktop/mdnetwork/mdnetwork/mdnetwork.podspec",
+		"/Users/liyongjie/.cocoapods/repos/mduikit/mduikit.podspec",
+		"/Users/liyongjie/Desktop/mduikit/mduikit/mduikit.podspec",
+		"/Users/liyongjie/.cocoapods/repos/mduikit/mduikit/1.0.0/mduikit.podspec",
+		"/Users/liyongjie/Desktop/mduikit_demo/mduikit.podspec",
+		"/Users/liyongjie/.cocoapods/repos/mduikit/mduikit/1.0.3/mduikit.podspec",
+		"/Users/liyongjie/Desktop/mduikit/mobile-sdk-ios-uikit/mduikit.podspec",
+		"/Users/liyongjie/.cocoapods/repos/mduikit/mduikit/1.0.2/mduikit.podspec",
+		"/Users/liyongjie/Desktop/gitlab私有库",
+		"/Users/liyongjie/.cocoapods/repos/MDKitSpec/MDKit/1.0.4/MDKit.podspec",
+		"/Users/liyongjie/Desktop/mduikt/mduikit/mduikit.podspec",
+		"/Users/liyongjie/.cocoapods/repos/mduikit.podspec",
+		"/Users/liyongjie/Desktop/RemoteLib/MyProjectBase/MyProjectBase.podspec",
+		"/Users/liyongjie/Desktop/TestDir/HWTFMBase/HWTFMBase.podspec",
+		"/Users/liyongjie/Desktop/BaseKit/TestKit/TestKit.podspec",
+		"/Users/liyongjie/Desktop/MDImageManagerSpec/MDImageManagerSpec.podspec",
+		"/Users/liyongjie/Desktop/MDImageManagerSpec/MDImageManagerSpecTest.podspec",
+		"/Users/liyongjie/Desktop/tax.py",
+		"/Users/liyongjie/Desktop/讲真的-high",
+		"/Users/liyongjie/Desktop/untitled",
+		"/Users/liyongjie/Music/iTunes/iTunes Media/Mobile Applications/抖音短视频 1.8.4/Payload/Aweme.app/2DSticker_none/config.json",
+		"/Users/liyongjie/Desktop/index.html",
+		"/Users/liyongjie/Desktop/bwg",
+		"/Users/liyongjie/Downloads/favorite/favorite_black.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.android.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"魅族note8——1298"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
